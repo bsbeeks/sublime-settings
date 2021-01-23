@@ -144,6 +144,7 @@
 	"scroll_past_end": true,
 	"scroll_speed": 1,
 	"shift_tab_unindent": true,
+	"show_definitions": false,
 	"show_encoding": false,
 	"show_full_path": true,
 	"show_line_endings": false,
